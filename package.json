@@ -1,0 +1,22 @@
+{
+  "name": "github-finder",
+  "version": "1.0.0",
+  "description": "Travery Media React Tutorial",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaximilianHoehl/github-finder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaximilianHoehl/github-finder/issues"
+  },
+  "homepage": "https://github.com/MaximilianHoehl/github-finder#readme",
+  "dependencies": {
+    "react": "^17.0.2"
+  }
+}
